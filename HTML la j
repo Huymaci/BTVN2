@@ -1,0 +1,5 @@
+Thẻ HTML là tên gọi của các phần tử, được sử dụng để tạo nên một tài liệu HTML. Hay nói cách khác, một trang web được tạo nên từ các thẻ HTML.
+
+Thẻ HTML bao gồm tên thẻ được đặt trong 2 dấu ngoặc nhọn: 
+
+<tên_thẻ>Nội dung của thẻ</tên_thẻ>
